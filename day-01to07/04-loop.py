@@ -1,8 +1,6 @@
 """
 Day 4
 循环
-
-Author: ixtwuko
 """
 
 import math

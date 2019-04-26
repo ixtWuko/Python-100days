@@ -1,8 +1,6 @@
 """
 Day 5
 基础的练习
-
-Author: ixtwuko
 """
 
 def narcissistic_number():

@@ -1,8 +1,6 @@
 """
 Day 2
 语言元素
-
-Author: ixtWuko
 """
 
 import math

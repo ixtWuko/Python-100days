@@ -1,8 +1,6 @@
 """
 Day 6
 函数
-
-Author: ixtwuko
 """
 
 def gcd(x, y):

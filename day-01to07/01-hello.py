@@ -1,8 +1,6 @@
 """
 Day 1
 Hello, World!
-
-Author: ixtwuko
 """
 
 """

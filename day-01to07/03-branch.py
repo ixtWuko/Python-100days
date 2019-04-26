@@ -1,8 +1,6 @@
 """
 Day 3
 分支
-
-Author: ixtwuko
 """
 
 import getpass
