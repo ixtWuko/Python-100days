@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tornado</title>
+</head>
+
+<body>
+    <h1>填写用户信息</h1>
+    <hr>
+    <p class="em">{{hint}}</p>
+    <form action="/register" method="post">
+        <p>
+            <label>昵称：</label>
+            <input type="text" name="nickname">（字母、数字或下划线，6~20个字符）
+        </p>
+        <p>
+            <lable>性别：</lable>
+            <input type="radio" name="gender" value="男" checked>男
+            <input type="radio" name="gender" value="女">女
+
+        </p>
+        <p>
+            <label>生日：</label>
+            <input type="date" name="birthday" value="1990-01-01">
+        </p>
+        <p>
+            <input type="submit" value="确定">
+        </p>
+    </form>
+</body>
+
+</html>
